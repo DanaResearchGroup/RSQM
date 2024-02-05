@@ -1,3 +1,3 @@
 # RSQM
 
-retrosynrhesis tool
+retrosynthesis tool
