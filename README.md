@@ -1,3 +1,4 @@
+
 # RSQM - Retrosynthesis Quantum mechanics
 RSQM is a retrosynthesis tool designed to assist in planning synthesis paths for organic molecules. This tool utilizes multiple widely-used machine learning (ML) models for retrosynthesis planning. Each ML model is based on different algorithms and generates predictions in a unique way. By combining these different tools, RSQM aims to increase the possibility of generating a feasible synthetic path for a given input molecule.
 
@@ -12,3 +13,8 @@ RSQM is a retrosynthesis tool designed to assist in planning synthesis paths for
 - **RS Adapter:** The adapter module responsible for integrating various ML tools and managing their predictions.
 - **Forward Validation System:** Module for validating predictions through forward reaction validation.
 - **QM Validation System:** Module for validating predictions using quantum mechanics based tools. 
+
+
+
+## License
+This project is licensed under the [MIT License](LICENSE).
