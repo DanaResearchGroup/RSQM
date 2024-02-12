@@ -1,5 +1,7 @@
 
 # RSQM - Retrosynthesis Quantum mechanics
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 RSQM is a retrosynthesis tool designed to assist in planning synthesis paths for organic molecules. This tool utilizes multiple widely-used machine learning (ML) models for retrosynthesis planning. Each ML model is based on different algorithms and generates predictions in a unique way. By combining these different tools, RSQM aims to increase the possibility of generating a feasible synthetic path for a given input molecule.
 
 ## Features
