@@ -20,3 +20,4 @@ RSQM is a retrosynthesis tool designed to assist in planning synthesis paths for
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
+ 
