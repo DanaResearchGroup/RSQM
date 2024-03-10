@@ -17,7 +17,7 @@ cd askcos2_core
 # Step 5: Run the make deploy command to set up and deploy the project
 make deploy
 
-# After setup, the web app will be accessible at the host IP address, e.g., 0.0.0.0., or inter the FASTAPI using http://127.0.0.1:9100/docs#/ link, to confirm server availability
+# After setup, the web app will be accessible at the host IP address, e.g., 0.0.0.0., or enter the FASTAPI using http://127.0.0.1:9100/docs#/ link, to confirm server availability
 # You can access it in your browser and explore ASKCOSv2 as a guest without signup or login.
 # Simply type the host IP address in your browser and follow the instructions on the welcome page.
 #if you get a server error in the FASTAPI try: 
