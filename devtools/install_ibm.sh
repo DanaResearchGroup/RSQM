@@ -11,3 +11,4 @@ cd IBMRxn
 # Step 3: Clone the ibmrxn Git repository
 pip install git+https://github.com/rxn4chemistry/rxn4chemistry.git
 
+echo "Installation complete. You can now use the 'IBMRxn' software."
